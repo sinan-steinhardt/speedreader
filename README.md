@@ -70,7 +70,3 @@ speedreader/
 - **Python** – Application logic
 - **Tkinter** – Graphical user interface
 - **PyMuPDF** – PDF text extraction
-
-## License
-
-MIT License
